@@ -1,3 +1,8 @@
+# INFORMATION
+Writtern report is in both .docx and .pdf format
+Old and current sql files are uploaded. Regular SQL.sql is the newest one. 
+
+
 # Fullstack-Assessment1
 The assesssment 1 for my Fullstack assessment
 Scenario The scenario presented here sets the context for the design of your proposed database solution for this assessment. The context is the design of a traffic correction notice database for the New York State Patrol department. A traffic correction notice is issued to the driver of a vehicle who has committed a traffic violation. For example, this could be speeding (breaking the road speed limit), using a phone while driving, or driving with a vehicle where one or more of its lights are not operating correctly.   
